@@ -2,6 +2,8 @@
 
 #### 📊 Reconstrução de Painel no Qlik Sense
 
+<img width='950' height='500' src="https://github.com/eduardolima17/Qlik-Sense-Analise-das-Campanhas-de-Marketing/blob/main/painelmarketing.png"/>
+
 ## 🚀 Objetivo do Projeto
 O objetivo deste desafio foi **reconstruir um painel no Qlik Sense** a partir de uma situação realista.
 
