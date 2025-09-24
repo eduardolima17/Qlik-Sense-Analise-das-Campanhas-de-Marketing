@@ -1,0 +1,1 @@
+# Qlik-Sense-Analise-das-Campanhas-de-Marketing
